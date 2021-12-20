@@ -1,2 +1,2 @@
 # AppChat-Mobile SE346
-GVHD: Huỳnh Tuấn ANh
+GVHD: Huỳnh Tuấn Anh
